@@ -3,7 +3,11 @@
   margin: 0;
   padding: 0;
 }
+#root {
+  min-height: 100vh;
+}
 body {
+  min-height: 100vh;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
@@ -20,7 +24,7 @@ code {
 html {
   --desaturated-dark-cyan: hsl(180, 29%, 50%);
   --light-grayish-cyan: hsl(180, 52%, 96%);
-  --light-grayish-cyan: hsl(180, 31%, 95%);
+  --light-grayish-cyan-tab: hsl(180, 31%, 95%);
   --dark-Grayish-cyan: hsl(180, 8%, 52%);
   --very-dark-grayish-cyan: hsl(180, 14%, 20%);
 }

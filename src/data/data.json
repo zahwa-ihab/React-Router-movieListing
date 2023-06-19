@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "Title": "Avatar",
+    "Year": "2009",
+    "Rating": "4.5",
+    "Genre": [" Comedy"]
+  },
+  {
+    "id": "2",
+    "Title": "I Am Legend",
+    "Year": "2007",
+    "Rating": "5.0",
+    "Genre": ["Mystery", "Romance"]
+  },
+  {
+    "id": "3",
+    "Title": "300",
+    "Year": "2006",
+    "Rating": "7.0",
+    "Genre": ["Crime", "Drama"]
+  },
+  {
+    "id": "4",
+    "Title": "The Avengers",
+    "Year": "2012",
+    "Rating": "8.5",
+    "Genre": ["Heartfelt", "Friendship"]
+  },
+  {
+    "id": "5",
+    "Title": "Interstellar",
+    "Year": "2014",
+    "Rating": "7.0",
+    "Genre": ["Mystery", "Drama", "horror"]
+  },
+  {
+    "id": "6",
+    "Title": "Game of Thrones",
+    "Year": "2011–",
+    "Rating": "8.5",
+    "Genre": ["Mystery", "Drama"]
+  },
+  {
+    "id": "7",
+    "Title": "Vikings",
+    "Year": "2013–",
+    "Rating": "9.0",
+    "Genre": ["Heartfelt", "Romance"]
+  },
+  {
+    "id": "8",
+    "Title": "Gotham",
+    "Year": "2014–",
+    "Rating": "6.0",
+    "Genre": ["Comedy", "Drama"]
+  },
+  {
+    "id": "9",
+    "Rating": "5.0",
+    "Title": "Power",
+    "Genre": ["Crime", "Drama"],
+    "Year": "2014–"
+  }
+]
