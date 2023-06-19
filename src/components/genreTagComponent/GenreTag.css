@@ -1,0 +1,20 @@
+.movie-genre {
+  padding: 0.5 px;
+  margin: 5px;
+  border-radius: 1rem;
+  border: none;
+  padding: 2px;
+  margin: 3px;
+  font-size: 11 px;
+  background-color: var(--light-grayish-cyan);
+}
+.genre-btn {
+  border: none;
+  padding: 0.5 px;
+  margin: 5px;
+  border-radius: 1rem;
+  padding: 2px;
+  font-size: 11 px;
+  background-color: transparent;
+  cursor: pointer;
+}

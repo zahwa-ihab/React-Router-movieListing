@@ -1,0 +1,34 @@
+.movie-card {
+  background-color: white;
+  padding: 10px;
+  margin: 5px;
+  box-shadow: 20px 5px 10px var(--light-grayish-cyan-tab);
+  display: flex;
+  direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 20px;
+}
+.genres-container {
+  display: flex;
+  direction: row;
+}
+.movie-rate {
+  padding: 4px;
+}
+p,
+button {
+  color: var(--dark-Grayish-cyan);
+}
+
+.title-btn,
+.rating-btn {
+  padding: 3px;
+  margin: 0px;
+  border-radius: 1rem;
+  border: none;
+  padding: 2px;
+  font-size: 11 px;
+  background-color: var(--light-grayish-cyan-tab);
+  cursor: pointer;
+}
